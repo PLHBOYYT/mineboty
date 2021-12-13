@@ -5,7 +5,7 @@
   "main": "index.js",
     "scripts": {
         "test": "node index.js",
-        "start": "node .",
+        "start": "node 3.1",
         "shell": "node.sh",
         "mineboty .": "node ."
     },
